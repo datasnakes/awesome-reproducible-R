@@ -1,6 +1,3 @@
-# awesome-reproducible-R
-An awesome list of resources for reproducible research in R.  Includes a table of comparison for different tools.
-
 # awesome-reproducible-R [![Awesome][awesome-badge]](https://github.com/sindresorhus/awesome)
 
 An awesome list of resources for reproducible research in R, which includes a comparison table of different tools.
