@@ -20,7 +20,6 @@ These packages or frameworks incorporate package, project, and data management i
 These tools are designed to manage packages or package repositories.
 
 - [reproducible](https://github.com/PredictiveEcology/reproducible) – A set of tools for R that enhance reproducibility beyond package management.
-- [reproducible](https://github.com/PredictiveEcology/reproducible) – A set of tools for R that enhance reproducibility beyond package management.
 
 ### Project Management
 
