@@ -14,6 +14,7 @@ An awesome list of resources for reproducible research in R, which includes a co
 These packages or frameworks incorporate package, project, and data management into one tool/
 
 - [rrtools](https://github.com/benmarwick/rrtools) - The goal of rrtools is to provide instructions, templates, and functions for making a basic compendium suitable for writing reproducible research with R
+- [RSuite](https://rsuite.io) - R Suite is an R package which together with R Suite CLI tool enables you to design deployment workflow that fits you and makes R your primary data science platform.
 
 ### Package Management
 
