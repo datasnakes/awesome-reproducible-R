@@ -2,12 +2,17 @@
 
 An awesome list of resources for reproducible research in R, which includes a comparison table of different tools.
 
+## Labels
+
+This awesome list contains sections that qualify a list item based on it's __primary feature__.  However, some items might have multiple features or uncommon features.  In order to account for this, we have provided a system of acronyms that will be used to label each item.  Additionally, many of the acronyms describe the items as proprietary or native based on how closely they rely on existing R based technologies.  In the next section we list these qualifying acronyms, and give details on what they are meant to convey.
+
 ## Contents
 
 - [Comprehensive Tools](#comprehensive-tools)
 - [Package Management](#package-management)
 - [Project Management](#project-management)
 - [Data Management](#data-management)
+- [Virtual Environment](#virtual-environment)
 
 ### Comprehensive Tools
 
