@@ -4,7 +4,16 @@ An awesome list of resources for reproducible research in R, which includes a co
 
 ## Labels
 
-This awesome list contains sections that qualify a list item based on it's __primary feature__.  However, some items might have multiple features or uncommon features.  In order to account for this, we have provided a system of acronyms that will be used to label each item.  Additionally, many of the acronyms describe the items as proprietary or native based on how closely they rely on existing R based technologies.  In the next section we list these qualifying acronyms, and give details on what they are meant to convey.
+This awesome list contains sections that qualify a list item based on it's __primary feature__.  However, some items might have multiple features or uncommon features.  In order to account for this, we have provided a system of acronyms that will be used to label each item.  Additionally, all of the primary feature acronyms describe the items as __proprietary__ or __native__ based on how closely they rely on existing R based technologies.  In the next section we list these qualifying acronyms, and give details on what they are meant to convey.
+
+### Primary Features
+
+* __Comprehensive Tools__ (_NCT/PCT_) - A suite of tools that accomplishes multiple tasks simultaneously.
+* __Project Management__ (_NPM/PPM_) - Helps plan, organize, manage, and develope R projects.
+* __Repository Management__ (_NRM/PRM_) - Creates or updates local or remote package repositories.
+* __Package Management__ (_NPM/PPM_) - Automates the process of installing, upgrading, configuring, or removing R packages from the library path (_.libPath_).
+* __R Installation__ (_NRI/PRI_) - Installs the R programming language or manage multiple version of the R programming language.
+* __Repository__ (_NR/PR_) - Public storage locations for retrieving and installing R packages.
 
 ## Contents
 
