@@ -15,6 +15,18 @@ This awesome list contains sections that qualify a list item based on it's __pri
 * __R Installation__ (_NRI/PRI_) - Installs the R programming language or manage multiple version of the R programming language.
 * __Repository__ (_NR/PR_) - Public storage locations for retrieving and installing R packages.
 
+
+### Other Features
+
+* __Command Line Interface__ (_CLI_) - A text based user interface that is accessed by typing a single line of text commands into the terminal or command prompt.
+* __Graphical User Interface__ (_GUI_) - A graphical based user interface that is accessed through various icons, menus, and other visual indicators to display information and user controls.
+* __Virtual Environment__ (_VE_) - A tool that helps to keep the dependencies of multiple R projects separate by creating an isolated directory tree for installation files and library paths.
+* __Virtual Operating System__ (_VOS_) - A tool that virtualizes an appplication or software inside a containerized operating system.
+* __R Package__ (_RP_) - The tool is an R package or is primarily written in R.
+* __Python Package__ (_PP_) - The tool is a Python package or is primarily written in Python.
+* __Other Language__ (_OL_) - The tools is written in another language.
+* __Other Feature__ (_OF_) - The tool has a feature not described on the current list.
+
 ## Contents
 
 - [Comprehensive Tools](#comprehensive-tools)
