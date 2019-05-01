@@ -10,9 +10,9 @@ This awesome list contains sections that qualify a list item based on it's __pri
 
 * __Comprehensive Tools__ (_NCT/PCT_) - A suite of tools that accomplishes multiple tasks simultaneously.
 * __Project Management__ (_NPM/PPM_) - Helps plan, organize, manage, and develope R projects.
-* __Repository Management__ (_NRM/PRM_) - Creates or updates local or remote package repositories.
 * __Package Management__ (_NPM/PPM_) - Automates the process of installing, upgrading, configuring, or removing R packages from the library path (_.libPath_).
 * __R Installation__ (_NRI/PRI_) - Installs the R programming language or manage multiple version of the R programming language.
+* __Repository Management__ (_NRM/PRM_) - Creates or updates local or remote package repositories.
 * __Repository__ (_NR/PR_) - Public storage locations for retrieving and installing R packages.
 
 
@@ -30,10 +30,10 @@ This awesome list contains sections that qualify a list item based on it's __pri
 ## Contents
 
 - [Comprehensive Tools](#comprehensive-tools)
-- [Package Management](#package-management)
 - [Project Management](#project-management)
-- [Data Management](#data-management)
-- [Virtual Environment](#virtual-environment)
+- [Package Management](#package-management)
+- [R Installation](#installation)
+- [Repository Management](#repo-management)
 
 ### Comprehensive Tools
 
