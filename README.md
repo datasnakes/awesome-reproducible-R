@@ -2,12 +2,38 @@
 
 An awesome list of resources for reproducible research in R, which includes a comparison table of different tools.
 
+## Labels
+
+This awesome list contains sections that qualify a list item based on it's __primary feature__.  However, some items might have multiple features or uncommon features.  In order to account for this, we have provided a system of acronyms that will be used to label each item.  Additionally, all of the primary feature acronyms describe the items as __proprietary__ or __native__ based on how closely they rely on existing R based technologies.  In the next section we list these qualifying acronyms, and give details on what they are meant to convey.
+
+### Primary Features
+
+* __Comprehensive Tools__ (_NCT/PCT_) - A suite of tools that accomplishes multiple tasks simultaneously.
+* __Project Management__ (_NPM/PPM_) - Helps plan, organize, manage, and develope R projects.
+* __Package Management__ (_NPM/PPM_) - Automates the process of installing, upgrading, configuring, or removing R packages from the library path (_.libPath_).
+* __R Installation__ (_NRI/PRI_) - Installs the R programming language or manage multiple version of the R programming language.
+* __Repository Management__ (_NRM/PRM_) - Creates or updates local or remote package repositories.
+* __Repository__ (_NR/PR_) - Public storage locations for retrieving and installing R packages.
+
+
+### Other Features
+
+* __Command Line Interface__ (_CLI_) - A text based user interface that is accessed by typing a single line of text commands into the terminal or command prompt.
+* __Graphical User Interface__ (_GUI_) - A graphical based user interface that is accessed through various icons, menus, and other visual indicators to display information and user controls.
+* __Virtual Environment__ (_VE_) - A tool that helps to keep the dependencies of multiple R projects separate by creating an isolated directory tree for installation files and library paths.
+* __Virtual Operating System__ (_VOS_) - A tool that virtualizes an appplication or software inside a containerized operating system.
+* __R Package__ (_RP_) - The tool is an R package or is primarily written in R.
+* __Python Package__ (_PP_) - The tool is a Python package or is primarily written in Python.
+* __Other Language__ (_OL_) - The tools is written in another language.
+* __Other Feature__ (_OF_) - The tool has a feature not described on the current list.
+
 ## Contents
 
 - [Comprehensive Tools](#comprehensive-tools)
-- [Package Management](#package-management)
 - [Project Management](#project-management)
-- [Data Management](#data-management)
+- [Package Management](#package-management)
+- [R Installation](#installation)
+- [Repository Management](#repo-management)
 
 ### Comprehensive Tools
 
