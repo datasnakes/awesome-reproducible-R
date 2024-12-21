@@ -9,10 +9,11 @@ An awesome list of resources for reproducible research in R, which includes a co
 ## Contents
 
 - [Comprehensive Tools](#comprehensive-tools)
+- [Environment & Package Management](#environment--package-management)
 - [Project Management](#project-management)
-- [Environment & Package Management](#environment-&-package-management)
-- [R Installation](#installation)
-- [Repository Management](#repo-management)
+- [Data Management](#data-management)
+- [Documentation & Reporting](#documentation--reporting)
+- [Code Style](#code-style)
 
 ### Comprehensive Tools
 
